@@ -1,2 +1,2 @@
 const a=2;
-console.log("hi");
+console.log("bye");
